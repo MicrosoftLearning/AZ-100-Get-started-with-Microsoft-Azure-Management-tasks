@@ -6,6 +6,8 @@ lab:
 # Exercise – Manage virtual machines
 In this exercise, you’ll complete several tasks related to managing virtual machines.
 
+This exercise should take approximately **10** minutes to complete. <!-- update with estimated duration -->
+
 ## Scenario
 With the network settings updated to support segmenting the Linux virtual machine, you’re ready to manage the virtual machine itself. The first thing the Azure admin asks you to complete is moving the virtual machine to the new subnet you created in the previous exercise.
 
