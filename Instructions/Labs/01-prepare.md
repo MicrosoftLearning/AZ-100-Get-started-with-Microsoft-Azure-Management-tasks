@@ -6,6 +6,8 @@ lab:
 
 In the prepare exercise, you set up the environment to complete the rest of the steps. 
 
+This exercise should take approximately **15** minutes to complete. <!-- update with estimated duration -->
+
 ## Need an Azure account?
 If you already have a Microsoft Azure account to use for this lab, skip to **Login to Microsoft Azure**. If you need to create an Azure account, complete the following steps.
 1.	Go to the [Azure free account](https://azure.microsoft.com/free/dotnet/) page.

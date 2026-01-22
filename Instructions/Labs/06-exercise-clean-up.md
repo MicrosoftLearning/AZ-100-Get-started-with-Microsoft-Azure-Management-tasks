@@ -5,6 +5,8 @@ lab:
 # Exercise – Clean up
 > **Warning:** Failure to complete this **Clean up** task could result in unexpected Azure costs. This task will remove resources created during this guided project.
 
+This exercise should take approximately **10** minutes to complete. <!-- update with estimated duration -->
+
 ## Remove delete locks
 If you attempt to delete a resource with a delete lock, you’ll receive a warning that the operation failed due to a delete lock being in place. To avoid that, it’s important to clear delete locks from resources you intend to delete **before** issuing the delete command.
 1.	Login to Microsoft Azure at [https://portal.azure.com](https://portal.azure.com)
