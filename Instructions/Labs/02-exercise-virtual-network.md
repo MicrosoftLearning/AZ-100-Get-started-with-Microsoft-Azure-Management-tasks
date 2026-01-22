@@ -5,6 +5,8 @@ lab:
 
 # Exercise – Update the virtual network
 
+This exercise should take approximately **8** minutes to complete. <!-- update with estimated duration -->
+
 > **Note:** Ensure you complete the **Prepare** exercise before stating this exercise. If you haven’t completed the **Prepare** exercise, the resources needed for this exercise will not be available.
 
 ## Scenario
