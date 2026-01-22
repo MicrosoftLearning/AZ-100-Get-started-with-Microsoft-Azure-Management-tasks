@@ -5,6 +5,8 @@ lab:
 # Exercise – Control storage access
 In this exercise, you’ll complete several tasks related to managing a storage account and components of the storage account.
 
+This exercise should take approximately **12** minutes to complete. <!-- update with estimated duration -->
+
 ## Scenario
 The Azure admin wants you to get more familiar with storage accounts, containers, and file shares. They anticipate needing to share an increasing number of files and need someone who is skilled using these services. They’ve given you a task of creating a storage container and a file share and uploading files to both locations.
 
