@@ -6,6 +6,8 @@ lab:
 # Exercise – Manage tags and locks
 If you’ve completed the previous exercises, you’ve managed added a subnet to a virtual network, made changes to a virtual machine, and worked with an Azure storage account. The final set of tasks for this guided project focus around working with **tags** and **resource locks** to help manage and monitor your environment. During this exercise you’ll go back into each of the areas you’ve already worked to add tags, locks, or a combination of both.
 
+This exercise should take approximately **5** minutes to complete. <!-- update with estimated duration -->
+
 ## Scenario
 Pleased with your progress so far, the Azure admin hopes that you can wrap a few things up to help with monitoring and protecting resources. They want to know that someone can’t accidentally get rid of the virtual machine that’s running as an FTP server, and they want a quick way to see what department is using resources and the resource’s purpose.
 
