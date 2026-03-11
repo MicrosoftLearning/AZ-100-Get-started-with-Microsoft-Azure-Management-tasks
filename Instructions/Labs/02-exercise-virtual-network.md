@@ -1,6 +1,11 @@
 ---
 lab:
-    title: 'Exercise – Update the virtual network'
+  title: Exercise – Update the virtual network
+  description: This exercise should take approximately **8** minutes to complete.
+    <!-- update with estimated duration -->
+  duration: 8 minutes
+  level: 400
+  islab: true
 ---
 
 # Exercise – Update the virtual network
