@@ -1,7 +1,13 @@
 ---
 lab:
-    title: 'Exercise – Control storage access'
+  title: Exercise – Control storage access
+  description: In this exercise, you’ll complete several tasks related to managing
+    a storage account and components of the storage account.
+  duration: 12 minutes
+  level: 300
+  islab: true
 ---
+
 # Exercise – Control storage access
 In this exercise, you’ll complete several tasks related to managing a storage account and components of the storage account.
 
