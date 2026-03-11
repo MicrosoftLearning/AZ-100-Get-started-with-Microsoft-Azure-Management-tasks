@@ -1,7 +1,12 @@
 ---
 lab:
-    title: 'Prepare'
+  title: Prepare
+  description: Congratulations! You've completed the Prepare exercise. Return to Microsoft Learn to continue the guided project.
+  duration: 15 minutes
+  level: 300
+  islab: true
 ---
+
 > **Note:** This guided project requires an active Azure subscription. Where possible, follow recommended naming conventions to make it easier to clean up the resource for this project at the end. Creating and using Azure resources for this project may increase your Azure costs.
 
 In the prepare exercise, you set up the environment to complete the rest of the steps. 
