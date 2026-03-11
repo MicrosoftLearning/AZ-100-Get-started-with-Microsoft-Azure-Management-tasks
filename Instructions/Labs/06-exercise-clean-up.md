@@ -1,7 +1,12 @@
 ---
 lab:
-    title: 'Exercise – Clean up'
+  title: Exercise – Clean up
+  description: Congratulations – you’ve finished the Guided Project and the clean up task at the end. Now head back to Learn to finish the rest of the module.
+  duration: 10 minutes
+  level: 200
+  islab: true
 ---
+
 # Exercise – Clean up
 > **Warning:** Failure to complete this **Clean up** task could result in unexpected Azure costs. This task will remove resources created during this guided project.
 
