@@ -1,7 +1,13 @@
 ---
 lab:
-    title: 'Exercise – Clean up'
+  title: Exercise – Clean up
+  description: This exercise should take approximately **10** minutes to complete.
+    <!-- update with estimated duration -->
+  duration: 10 minutes
+  level: 200
+  islab: true
 ---
+
 # Exercise – Clean up
 > **Warning:** Failure to complete this **Clean up** task could result in unexpected Azure costs. This task will remove resources created during this guided project.
 
