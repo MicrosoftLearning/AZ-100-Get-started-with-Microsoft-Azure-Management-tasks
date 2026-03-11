@@ -1,6 +1,10 @@
 ---
 lab:
-    title: 'Exercise – Update the virtual network'
+  title: Exercise – Update the virtual network
+  description: Congratulations! You've completed this exercise. Return to Microsoft Learn to continue the guided project.
+  duration: 8 minutes
+  level: 400
+  islab: true
 ---
 
 # Exercise – Update the virtual network
