@@ -1,6 +1,11 @@
 ---
 lab:
-    title: 'Exercise – Manage virtual machines'
+  title: Exercise – Manage virtual machines
+  description: In this exercise, you’ll complete several tasks related to managing
+    virtual machines.
+  duration: 10 minutes
+  level: 200
+  islab: true
 ---
 
 # Exercise – Manage virtual machines
