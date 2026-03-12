@@ -1,7 +1,18 @@
 ---
 lab:
-    title: 'Exercise – Control storage access'
+  title: Exercise – Control storage access
+  description: In this exercise, you manage storage access and data services in Azure. You create a blob container and file share, upload files, generate a SAS URL, and rotate access keys to revoke access.
+  duration: 12 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Azure Storage Accounts
+    - Blob Storage
+    - Azure Files
+    - Shared Access Signatures
+    - Access Keys
 ---
+
 # Exercise – Control storage access
 In this exercise, you’ll complete several tasks related to managing a storage account and components of the storage account.
 

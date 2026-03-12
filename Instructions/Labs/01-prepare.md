@@ -1,7 +1,18 @@
 ---
 lab:
-    title: 'Prepare'
+  title: Prepare
+  description: In this exercise, you create the core resources needed for the guided project in Azure. You sign in to the portal, create a resource group, and deploy a virtual network, virtual machine, and storage account.
+  duration: 15 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Azure Portal
+    - Azure Resource Groups
+    - Azure Virtual Network
+    - Azure Virtual Machines
+    - Azure Storage Accounts
 ---
+
 > **Note:** This guided project requires an active Azure subscription. Where possible, follow recommended naming conventions to make it easier to clean up the resource for this project at the end. Creating and using Azure resources for this project may increase your Azure costs.
 
 In the prepare exercise, you set up the environment to complete the rest of the steps. 

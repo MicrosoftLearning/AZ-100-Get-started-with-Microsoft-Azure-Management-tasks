@@ -1,6 +1,14 @@
 ---
 lab:
-    title: 'Exercise – Update the virtual network'
+  title: Exercise – Update the virtual network
+  description: In this exercise, you update networking for the project virtual machine. You create a subnet, configure a network security group and inbound rule, and associate the security group with the subnet.
+  duration: 8 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Azure Virtual Network
+    - Azure Subnets
+    - Network Security Groups
 ---
 
 # Exercise – Update the virtual network

@@ -1,6 +1,15 @@
 ---
 lab:
-    title: 'Exercise – Manage tags and locks'
+  title: Exercise – Manage tags and locks
+  description: In this exercise, you apply governance controls to project resources. You add tags to the virtual machine and virtual network and create a delete lock to protect the VM.
+  duration: 5 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Azure Resource Tags
+    - Azure Resource Locks
+    - Azure Virtual Machines
+    - Azure Virtual Network
 ---
 
 # Exercise – Manage tags and locks

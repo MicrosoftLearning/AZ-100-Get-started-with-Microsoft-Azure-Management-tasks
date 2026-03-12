@@ -1,6 +1,15 @@
 ---
 lab:
-    title: 'Exercise – Manage virtual machines'
+  title: Exercise – Manage virtual machines
+  description: In this exercise, you perform operational updates on a virtual machine. You move the VM to a new subnet, resize it, attach a data disk, and configure automatic shutdown.
+  duration: 10 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Azure Virtual Machines
+    - Virtual Machine Networking
+    - Azure Managed Disks
+    - Auto-shutdown
 ---
 
 # Exercise – Manage virtual machines
