@@ -1,10 +1,14 @@
 ---
 lab:
   title: Exercise – Clean up
-  description: Congratulations – you’ve finished the Guided Project and the clean up task at the end. Now head back to Learn to finish the rest of the module.
+  description: In this exercise, you remove guided project resources to avoid ongoing costs. You delete resource locks and remove the project resource groups, including NetworkWatcherRG when applicable.
   duration: 10 minutes
-  level: 200
+  level: 100
   islab: true
+  primarytopics:
+    - Azure Resource Locks
+    - Azure Resource Groups
+    - Resource Cleanup
 ---
 
 # Exercise – Clean up

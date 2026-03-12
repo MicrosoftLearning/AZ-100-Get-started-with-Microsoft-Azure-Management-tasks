@@ -1,13 +1,15 @@
 ---
 lab:
   title: Exercise – Manage tags and locks
-  description: If you’ve completed the previous exercises, you’ve managed added a subnet to a virtual network, made changes to a virtual machine, and worked with an Azure storage account. The final set of tasks for this guided project focus around working with tags and resource locks to help manage and monitor your environment. During this exercise you’ll go back into each of the areas you’ve already worked to add tags, locks, or a combination of both.
+  description: In this exercise, you apply governance controls to project resources. You add tags to the virtual machine and virtual network and create a delete lock to protect the VM.
   duration: 5 minutes
   level: 200
   islab: true
   primarytopics:
-    - Azure
-    - Azure Storage
+    - Azure Resource Tags
+    - Azure Resource Locks
+    - Azure Virtual Machines
+    - Azure Virtual Network
 ---
 
 # Exercise – Manage tags and locks
